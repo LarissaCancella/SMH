@@ -20,6 +20,26 @@ figure, header, nav, section, article, aside, footer, figcaption {
   height: 600px;
 }
 
+.detalhes_img {
+  border-radius: 23px; 
+  margin-bottom: 30px;
+}
+
+.detalhes_video {
+  border-radius: 23px;
+  height: 350px;
+}
+
+.streams_img {
+  max-width: 46px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.border_img {
+  border-radius: 23px;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
